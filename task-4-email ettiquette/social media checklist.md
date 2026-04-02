@@ -10,6 +10,8 @@ Keep profiles clean and professional — Maintain a positive digital footprint; 
 Use strong passwords and enable 2FA — Protect your accounts with unique, strong passwords and two-factor authentication.
 Report harmful content — Use platform reporting tools to flag cyberbullying, misinformation, or suspicious activity.
 Separate personal and professional presence — Be mindful of what you post publicly, especially on LinkedIn and academic networks.
+
+
 ❌ DON'Ts
 Don't share personal information publicly — Avoid posting your address, phone number, ID details, or financial information online.
 Don't post or tag without consent — Always ask before tagging others in photos, videos, or sensitive posts.
